@@ -4,7 +4,7 @@ With expertise in SQL, Python, Power BI, and Tableau, I bring technical skills a
 
 Let’s connect and collaborate on data-driven solutions! 🚀
 
-About me
+## 🚀 About me :
 
 - 🔭 I’m currently working on creating impactful dashboards and performing data analysis using Power BI, Python, and SQL.
 - 🌱 I’m currently learning advanced EDA techniques and enhancing my statistical modeling skills.
