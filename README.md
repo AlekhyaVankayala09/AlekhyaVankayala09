@@ -4,7 +4,7 @@ With expertise in SQL, Python, Power BI, and Tableau, I bring technical skills a
 
 Let’s connect and collaborate on data-driven solutions! 🚀
 
-<!--
+
 **AlekhyaVankayala09/AlekhyaVankayala09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 💬 Ask me about Power BI, SQL queries, and data storytelling.
 📫 How to reach me: alekhyavankayala50890@gmail.com
 ⚡ Fun fact: I can turn raw data into stories that drive business decisions!
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alekhyavankayala/) 
