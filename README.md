@@ -1,4 +1,4 @@
-## Hi there,  I’m Alekhya! 👋
+## Hi there,  I’m Alekhya Vankayala! 👋
 Welcome to my GitHub profile! I’m a Data Analyst passionate about transforming data into actionable insights that help businesses thrive.
 With expertise in SQL, Python, Power BI, and Tableau, I bring technical skills and a keen analytical mindset to uncover meaningful trends and craft impactful visualizations. My goal is to bridge the gap between raw data and strategic business decisions.
 
