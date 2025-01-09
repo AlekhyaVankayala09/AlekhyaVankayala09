@@ -9,13 +9,13 @@ Let’s connect and collaborate on data-driven solutions! 🚀
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on creating impactful dashboards and performing data analysis using Power BI, Python, and SQL.
-- 🌱 I’m currently learning advanced EDA techniques and enhancing my statistical modeling skills.
-- 👯 I’m looking to collaborate on data visualization projects and analytics-driven solutions.
-- 🤔 I’m looking for help with mastering big data tools and cloud platforms for analytics.
-- 💬 Ask me about Power BI, SQL queries, and data storytelling.
-- 📫 How to reach me: alekhyavankayala50890@gmail.com
-- ⚡ Fun fact: I can turn raw data into stories that drive business decisions!
+🔭 I’m currently working on creating impactful dashboards and performing data analysis using Power BI, Python, and SQL.
+🌱 I’m currently learning advanced EDA techniques and enhancing my statistical modeling skills.
+👯 I’m looking to collaborate on data visualization projects and analytics-driven solutions.
+🤔 I’m looking for help with mastering big data tools and cloud platforms for analytics.
+💬 Ask me about Power BI, SQL queries, and data storytelling.
+📫 How to reach me: alekhyavankayala50890@gmail.com
+⚡ Fun fact: I can turn raw data into stories that drive business decisions!
 -->
 
 ## 🌐 Socials:
